@@ -18,7 +18,7 @@ function PageAdmin(props) {
         //     console.log(err);
         // });
     }, []);
-    return <div>Hello, admin</div>;
+    return <div>Hello, admin!</div>;
 }
 
 export default PageAdmin;
